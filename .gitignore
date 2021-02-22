@@ -1,0 +1,8 @@
+﻿/.idea/
+/BuildOutPutPath/
+/Library/
+/Logs/
+/obj/Debug/
+/Temp/
+*.csproj
+*.sln
